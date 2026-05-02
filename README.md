@@ -33,7 +33,7 @@ To ensure a fair comparison across the entire population, the following steps we
 ## 🤝 Let's Collaborate
 I am **Raya Ramadha Fitroh**, a Data Science student at Telkom University. I am passionate about Sports Analytics and am currently open for **Internship Opportunities** or collaborative projects.
 
-- **LinkedIn:** [www.linkedin.com/in/raya-ramadha-587095273
+- **LinkedIn:** www.linkedin.com/in/raya-ramadha-587095273
 - **Email:** ramadharaya5@gmail.com
 
 ---
